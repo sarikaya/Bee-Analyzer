@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Bee Analyzer</string>
+    <string name="title_activity_maps">Activity Map</string>
+    <string name="title_activity_starting">Bee Analyzer</string>
+    <string name="title_activity_login_page">Admin Login</string>
+    <string name="title_activity_admin_page">Admin</string>
+    <string name="title_activity_gate_maps">Gate Analysis</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_send">VIEW LIVE DENSITY</string>
+    <string name="title_activity_about_page">About</string>
+    <string-array name="itu_gate_names">
+        <item>Borsa (Vehicle)</item>
+        <item>İstinye (Pedestrian)</item>
+        <item>Nükleer (Vehicle)</item>
+        <item>Metro (Pedestrian)</item>
+        <item>Ağaçlı Yol (Pedestrian)</item>
+        <item>Büyükdere (Vehicle)</item>
+        <item>Etiler (Vehicle)</item>
+    </string-array>
+    <string-array name="itu_gate_latitudes">
+        <item>41.110682</item>
+        <item>41.109285</item>
+        <item>41.108415</item>
+        <item>41.108078</item>
+        <item>41.107673</item>
+        <item>41.106180</item>
+        <item>41.099560</item>
+    </string-array>
+    <string-array name="itu_gate_longitudes">
+        <item>29.035960</item>
+        <item>29.032796</item>
+        <item>29.029081</item>
+        <item>29.022224</item>
+        <item>29.018936</item>
+        <item>29.015327</item>
+        <item>29.032239</item>
+    </string-array>
+
+
+    <string name="info">Campus Density Analyzer is a GPS tracking application. The application keeps the walking patterns on ITU Maslak Campus and uses data for analysis.
+    </string>
+
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "666892350075",
+    "firebase_url": "https://itumapproject.firebaseio.com",
+    "project_id": "itumapproject",
+    "storage_bucket": "itumapproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666892350075:android:bc123e62c9f248ed",
+        "android_client_info": {
+          "package_name": "com.itu.itu_map_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666892350075-tp9lb69r1oljvrgjmqouccdfh0h0f3qt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itu.itu_map_project",
+            "certificate_hash": "839f698f912b97883b598003d1f71a4720e2aca1"
+          }
+        },
+        {
+          "client_id": "666892350075-ttrv6c1eghneg1o0jdjocfh8rabh8iin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZNPDgRnhJigdO439ycLBBkfP-ZcjEDYY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666892350075-ttrv6c1eghneg1o0jdjocfh8rabh8iin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
